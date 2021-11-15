@@ -1,6 +1,6 @@
 Описание:
 
-- Тестовое задание на React, Redux (reduxjs/toolkit), JS
+- Тестовое задание на React, Redux (reduxjs/toolkit), JS, Styled Components
 - Макеты: https://www.figma.com/file/2AhC4eVWgfWIVm7yXw6B55/Filtered?node-id=1%3A3
 - Api: https://jsonplaceholder.typicode.com/comments
 
